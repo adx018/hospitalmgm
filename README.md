@@ -269,9 +269,8 @@ DELETE /api/staff/:id
 # 👨‍💻 Author
 
 **Adhvaith Sibu**
+Computer Science Student  
 
-Information Security Student  
-VIT Vellore
 
 ---
 
